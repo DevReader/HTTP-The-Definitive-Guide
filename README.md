@@ -1,6 +1,7 @@
-# HTTP 완벽 가이드 스터디
+# HTTP 완벽 가이드 스터디
 
-![image](https://github.com/DevReader/CleanCode/assets/73516336/7bebf235-8056-45c5-a64b-0c42b1479a30)
+![image](https://github.com/DevReader/HTTP-/assets/73516336/5f819737-11f7-4da4-824e-fa2493e79867)
+
 
 도서 <HTTP 완벽 가이드> 스터디 저장소입니다.
 
@@ -52,10 +53,10 @@
   <tbody>
     <tr>
       <td rowspan="2">1주차</td>
-      <td><a href="/1장-HTTP 개관/README.md">1장-HTTP 개관</a></td>
+      <td><a href="/1장-HTTP 개관/README.md">1장-HTTP 개관</a></td>
     </tr>
     <tr>
-      <td><a href="/2장-URL과 리소스/README.md">2장-URL과 리소스</a></td>
+      <td><a href="/2장-URL과 리소스/README.md">2장-URL과 리소스</a></td>
     </tr>
   </tbody>
 </table>
