@@ -57,6 +57,13 @@
     <tr>
       <td><a href="/2장-URL과 리소스/README.md">2장-URL과 리소스</a></td>
     </tr>
+    <tr>
+      <td rowspan="2">2주차</td>
+      <td><a href="/3장-HTTP 메시지/README.md">3장-HTTP 메시지</a></td>
+    </tr>
+    <tr>
+      <td><a href="/4장-커넥션 관리/README.md">4장-커넥션 관리</a></td>
+    </tr>
   </tbody>
 </table>
 
