@@ -64,6 +64,13 @@
     <tr>
       <td><a href="/4장-커넥션 관리/README.md">4장-커넥션 관리</a></td>
     </tr>
+    <tr>
+      <td rowspan="2">3주차</td>
+      <td><a href="/5장-웹 서버/README.md">5장-웹 서버</a></td>
+    </tr>
+    <tr>
+      <td><a href="/6장-프락시/README.md">6장-프락시</a></td>
+    </tr>
   </tbody>
 </table>
 
